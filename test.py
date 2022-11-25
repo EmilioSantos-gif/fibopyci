@@ -11,5 +11,5 @@ class ftest(unittest.TestCase):
         self.assertEquals(f.fibonacci_of(9), 20, "Test failed")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()
