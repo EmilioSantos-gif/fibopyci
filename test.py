@@ -1,6 +1,5 @@
-import fibonacci as f
 import unittest
-
+import fibonacci as f
 
 class ftest(unittest.TestCase):
     def test(self):
